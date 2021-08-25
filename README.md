@@ -19,20 +19,17 @@
 💻 Stack I Work With
 
 <p align="center">
-<img src="https://img.shields.io/badge/CMS%20-DITA%2FXML%20%7C%20Oxygen%20%7C%20Zendesk-blue?&style=for-the-badge" height="25"/>
-  
-<img src="https://img.shields.io/badge/Content%20authoring-MS%20Word%20%7C%20Powerpoint%20%7C%20Prezi%20%7C%20Snagit%20%7C%20Adobe%20FrameMaker%20%7C%20Adobe%20Acrobat%20Pro-yellow?&style=for-the-badge" height="25"/>
-  
-  
-<img src="https://img.shields.io/badge/Help%20authoring-Innovasys%20Document%20X%20%7C%20WebWorks%20ePublisher-yellowgreen?&style=for-the-badge" height="25"/>
-<img src="  https://img.shields.io/badge/Video%2FSimulation-Adobe%20Captivate%20%7C%20Camtasia%20%7C%20GoAnimate(Vyond)-blue
-?&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/Audio-Adobe%20Audition%20%7C%20Audacity-red?&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/eLearning-Adobe%20Captivate%20%7C%20Articulate%20Studio%2009%20%7C%20Saba-red?&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/CMS%20-DITA%2FXML%20%7C%20Oxygen%20%7C%20Zendesk-blue?&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/Project%20Management%20methods-Agile%20%7C%20SAFE-red?&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/Configuration%20Management-%20Perforce%20%7C%20Github-red?&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/eLearning-Adobe%20Captivate%20%7C%20Articulate%20Studio%2009%20%7C%20Saba-red?&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/Help%20authoring-Innovasys%20Document%20X%20%7C%20WebWorks%20ePublisher-yellowgreen?&style=for-the-badge" height="25"/>  
 <img src="https://img.shields.io/badge/Bug%20tracking%2F%20Project%20Management%20%20-Teampulse%20%7C%20JIRA%20%7C%20Aha!-red?&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/Collaboration-MS%20Sharepoint%20%7C%20MS%20One%20Note%20%7C%20MS%20Teams%20%7C%20Confluence-red?&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/Project%20Management%20methods-Agile%20%7C%20SAFE-red?&style=for-the-badge" height="25"/>
+<img src="  https://img.shields.io/badge/Video%2FSimulation-Adobe%20Captivate%20%7C%20Camtasia%20%7C%20GoAnimate(Vyond)-blue
+?&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/Content%20authoring-MS%20Word%20%7C%20Powerpoint%20%7C%20Prezi%20%7C%20Snagit%20%7C%20Adobe%20FrameMaker%20%7C%20Adobe%20Acrobat%20Pro-yellow?&style=for-the-badge" height="25"/>
   
  
 </p>
