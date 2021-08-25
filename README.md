@@ -1,19 +1,7 @@
 <h1 align="center">Hi, I'm Faraaz Mohiuddin</h1>
-<h3 align="center">A Technical Writer from India</h3>
+<h3 align="center">A Technical Writer / Instructional Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraazmohiuddin&label=Profile%20views&color=0e75b6&style=flat" alt="faraazmohiuddin" /> </p>
-
-- 💬Content authoring: **MS Word, Powerpoint, Prezi, Snagit, Adobe FrameMaker, Adobe Acrobat Pro**
-- 💬CMS: **DITA/XML, Oxygen, Zendesk**
-- 💬Help authoring: **Innovasys Document X, WebWorks ePublisher**
-- 💬Video/Simulation: **Adobe Captivate, Camtasia, GoAnimate(Vyond)**
-- 💬Audio: **Adobe Audition, Audacity**
-- 💬eLearning: **Adobe Captivate, Articulate Studio 09, Saba**
-- 💬Configuration Management: **Perforce, Github**
-- 💬Bug tracking/ Project Management: **Teampulse, JIRA, Aha!**
-- 💬Collaboration: **MS Sharepoint, MS One Note, MS Teams, Confluence**
-- 💬Project Management methods: **Agile, SAFE**
-
 
 
 💻 Tools/Processes I have worked with:
@@ -22,7 +10,7 @@
 <img src="https://img.shields.io/badge/eLearning-Adobe%20Captivate%20%7C%20Articulate%20Studio%2009%20%7C%20Saba-red?&style=for-the-badge" height="25"/>
   <br>
 <img src="https://img.shields.io/badge/Audio-Adobe%20Audition%20%7C%20Audacity-red?&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/Video%2FSimulation-Adobe%20Captivate%20%7C%20Camtasia%20%7C%20GoAnimate(Vyond)-red?&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/Video%2FSimulation-Adobe%20Captivate%20%7C%20Camtasia%20%7C%20GVyond-red?&style=for-the-badge" height="25"/>
   <br>
 <img src="https://img.shields.io/badge/Content%20authoring-MS%20Word%20%7C%20Powerpoint%20%7C%20Prezi%20%7C%20Snagit%20%7C%20Adobe%20FrameMaker%20%7C%20Adobe%20Acrobat%20Pro-blue?&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/Help%20authoring-Innovasys%20Document%20X%20%7C%20WebWorks%20ePublisher-blue?&style=for-the-badge" height="25"/>  
