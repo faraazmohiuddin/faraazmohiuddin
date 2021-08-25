@@ -20,6 +20,9 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/CMS%20-DITA%2FXML%20%7C%20Oxygen%20%7C%20Zendesk-blue?&style=for-the-badge" height="25"/>
+  
+<img src="https://img.shields.io/badge/Content%20authoring-MS%20Word%20%7C%20Powerpoint%20%7C%20Prezi%20%7C%20Snagit%20%7C%20Adobe%20FrameMaker%20%7C%20Adobe%20Acrobat%20Pro-yellow?&style=for-the-badge" height="25"/>
+  
 <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
