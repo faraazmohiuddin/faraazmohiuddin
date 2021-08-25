@@ -23,22 +23,25 @@
   
 <img src="https://img.shields.io/badge/Content%20authoring-MS%20Word%20%7C%20Powerpoint%20%7C%20Prezi%20%7C%20Snagit%20%7C%20Adobe%20FrameMaker%20%7C%20Adobe%20Acrobat%20Pro-yellow?&style=for-the-badge" height="25"/>
   
-<img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/>
+  
+<img src="https://img.shields.io/badge/Help%20authoring-Innovasys%20Document%20X%20%7C%20WebWorks%20ePublisher-yellowgreen?&style=for-the-badge" height="25"/>
+
+  <img src="  https://img.shields.io/badge/Video%2FSimulation-Adobe%20Captivate%20%7C%20Camtasia%20%7C%20GoAnimate(Vyond)-blue
+?&style=for-the-badge" height="25"/>
+  
+  <img src="https://img.shields.io/badge/Audio-Adobe%20Audition%20%7C%20Audacity-red?&style=for-the-badge" height="25"/>
+  
+    <img src="https://img.shields.io/badge/eLearning-Adobe%20Captivate%20%7C%20Articulate%20Studio%2009%20%7C%20Saba-red?&style=for-the-badge" height="25"/>
+  
+    <img src="https://img.shields.io/badge/Configuration%20Management-%20Perforce%20%7C%20Github-red?&style=for-the-badge" height="25"/>
+  
+  <img src="https://img.shields.io/badge/Bug%20tracking%2F%20Project%20Management%20%20-Teampulse%20%7C%20JIRA%20%7C%20Aha!-red?&style=for-the-badge" height="25"/>
+  
+      <img src="https://img.shields.io/badge/Collaboration-MS%20Sharepoint%20%7C%20MS%20One%20Note%20%7C%20MS%20Teams%20%7C%20Confluence-red?&style=for-the-badge" height="25"/>
+  
+      <img src="https://img.shields.io/badge/Project%20Management%20methods-Agile%20%7C%20SAFE-red?&style=for-the-badge" height="25"/>
+  
+ 
 </p> -->
 
 <h3 align="left">Connect with me:</h3>
