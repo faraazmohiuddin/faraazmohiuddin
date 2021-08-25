@@ -16,7 +16,7 @@
 
 
 
-<!-- ### 💻 Stack I Work With
+💻 Stack I Work With
 
 <p align="center">
 <img src="https://img.shields.io/badge/CMS%20-DITA%2FXML%20%7C%20Oxygen%20%7C%20Zendesk-blue?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
